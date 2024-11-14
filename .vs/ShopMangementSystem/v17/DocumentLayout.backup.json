@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProgramingProjects\\ShopMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:ShopMangementSystem\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:ShopMangementSystem\\Bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:ShopMangementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\shopmangementsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:shopmangementsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:ShopMangementSystem\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\shopmangementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:shopmangementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:ShopMangementSystem\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|D:\\ProgramingProjects\\ShopMangementSystem\\shopmangementsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:shopmangementsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|d:\\programingprojects\\shopmangementsystem\\shopmangementsystem\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979DAFA5-4C97-4473-A354-44AB2B4D072A}|ShopMangementSystem\\ShopMangementSystem.csproj|solutionrelative:shopmangementsystem\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Program.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Program.cs",
+              "RelativeToolTip": "ShopMangementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:11.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Bill.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Bill.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Bill.cs [Design]",
+              "RelativeToolTip": "ShopMangementSystem\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Bill.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Bill.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Bill.cs",
+              "RelativeToolTip": "ShopMangementSystem\\Bill.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Product.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Product.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Product.cs",
+              "RelativeToolTip": "ShopMangementSystem\\Product.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAIcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Customer.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Customer.cs [Design]",
+              "RelativeToolTip": "ShopMangementSystem\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Customer.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Customer.cs",
+              "RelativeToolTip": "ShopMangementSystem\\Customer.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAjwLwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Login.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "ShopMangementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Login.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Login.cs",
+              "RelativeToolTip": "ShopMangementSystem\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Product.cs",
+              "RelativeDocumentMoniker": "ShopMangementSystem\\Product.cs",
+              "ToolTip": "D:\\ProgramingProjects\\ShopMangementSystem\\ShopMangementSystem\\Product.cs [Design]",
+              "RelativeToolTip": "ShopMangementSystem\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:39:12.502Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
